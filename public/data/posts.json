@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to Next.js",
+    "body": "Next.js is a React framework for building modern web applications.",
+    "author": "John Doe",
+    "date": "2024-01-01"
+  },
+  {
+    "id": 2,
+    "title": "Understanding ISR",
+    "body": "ISR allows you to build static pages with dynamic updates.",
+    "author": "Jane Smith",
+    "date": "2024-01-02"
+  },
+  {
+    "id": 3,
+    "title": "Middleware in Next.js",
+    "body": "Middleware lets you customize requests and responses.",
+    "author": "Alice Johnson",
+    "date": "2024-01-03"
+  }
+]
